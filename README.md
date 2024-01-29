@@ -208,7 +208,7 @@ To deploy a Transaction or Member node:
 
 you can now check the deployment of your blockchain network components as pods in kubernetes following this:
 `kubectl -n quorum get pods`
-[![networkview.png](https://i.postimg.cc/15dk5HNv/networkview.png)](https://postimg.cc/XpwHs9L5)
+[![Capture-d-cran-du-2024-01-29-14-12-26.png](https://i.postimg.cc/9QPNCYpH/Capture-d-cran-du-2024-01-29-14-12-26.png)](https://postimg.cc/CR144DXc)
 
 8. Connecting to the node from your local machine via an Ingress
 In order to view the Grafana dashboards or connect to the nodes to make transactions from your local machine you can deploy an ingress controller with rules. We use the ingress-nginx ingress controller which can be deployed as follows:
