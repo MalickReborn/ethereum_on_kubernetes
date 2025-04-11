@@ -1,5 +1,5 @@
 # ethereum_on_kubernetes
-a test project to deploy an ethereum based blockchain within a kubernetes blockchain
+a test project to deploy an ethereum based blockchain within a kubernetes cluster
 
 We've set a challenge to deploy a blockchain network on a kubernetes cluster.
 
